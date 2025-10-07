@@ -1,5 +1,3 @@
-# 指导 AI 编码代理
-
 ## 概述与架构
 
 这是一个基于命令行的 Python 管理系统，用于管理用户、激活码（卡密）和配置文件。整个应用的核心逻辑都封装在 `admin_system.py` 的 `AdminSystem` 类中。
@@ -50,3 +48,4 @@ python admin_system.py
   pip install rich
   ```
 在进行任何涉及终端输出的修改时，请优先使用 `rich` 库的功能。
+
