@@ -45,7 +45,8 @@ python admin_system.py
 
 - **rich**: 用于增强终端输出。安装命令如下：
   ```bash
-  pip install rich
+  python -m pip install rich
   ```
 在进行任何涉及终端输出的修改时，请优先使用 `rich` 库的功能。
+
 
